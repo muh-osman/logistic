@@ -1,0 +1,328 @@
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\ajax\libs\jquery\3.5.1\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://cdn.ratina.co/js/helper-v11.js?c=b&l=en
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\js\helper-v11.js
+Content Type: application/javascript
+
+Uri: https://www.wasltak.com.sa/
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\index.htm
+Content Type: text/html
+
+Uri: https://www.wasltak.com.sa/assets/animatecss/animate.min.css
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\assets\animatecss\animate.min.css
+Content Type: text/css
+
+Uri: https://www.wasltak.com.sa/assets/bootstrap/css/bootstrap-grid.min.css
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\assets\bootstrap\css\bootstrap-grid.min.css
+Content Type: text/css
+
+Uri: https://www.wasltak.com.sa/assets/bootstrap/css/bootstrap-reboot.min.css
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\assets\bootstrap\css\bootstrap-reboot.min.css
+Content Type: text/css
+
+Uri: https://www.wasltak.com.sa/assets/bootstrap/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\assets\bootstrap\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://www.wasltak.com.sa/assets/bootstrap/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\assets\bootstrap\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://www.wasltak.com.sa/assets/datepicker/jquery.datetimepicker.full.js
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\assets\datepicker\jquery.datetimepicker.full.js
+Content Type: application/javascript
+
+Uri: https://www.wasltak.com.sa/assets/datepicker/jquery.datetimepicker.min.css
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\assets\datepicker\jquery.datetimepicker.min.css
+Content Type: text/css
+
+Uri: https://www.wasltak.com.sa/assets/dropdown/css/style.css
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\assets\dropdown\css\style.css
+Content Type: text/css
+
+Uri: https://www.wasltak.com.sa/assets/dropdown/js/nav-dropdown.js
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\assets\dropdown\js\nav-dropdown.js
+Content Type: application/javascript
+
+Uri: https://www.wasltak.com.sa/assets/dropdown/js/navbar-dropdown.js
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\assets\dropdown\js\navbar-dropdown.js
+Content Type: application/javascript
+
+Uri: https://www.wasltak.com.sa/assets/fonts/ArbFONTS-ArbFONTS-Janna-LT-Regular/font.ttf
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\assets\fonts\ArbFONTS-ArbFONTS-Janna-LT-Regular\font.ttf
+Content Type: font/ttf
+
+Uri: https://www.wasltak.com.sa/assets/fonts/style.css
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\assets\fonts\style.css
+Content Type: text/css
+
+Uri: https://www.wasltak.com.sa/assets/formoid/formoid.min.js
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\assets\formoid\formoid.min.js
+Content Type: application/javascript
+
+Uri: https://www.wasltak.com.sa/assets/formstyler/jquery.formstyler.css
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\assets\formstyler\jquery.formstyler.css
+Content Type: text/css
+
+Uri: https://www.wasltak.com.sa/assets/formstyler/jquery.formstyler.js
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\assets\formstyler\jquery.formstyler.js
+Content Type: application/javascript
+
+Uri: https://www.wasltak.com.sa/assets/formstyler/jquery.formstyler.min.js
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\assets\formstyler\jquery.formstyler.min.js
+Content Type: application/javascript
+
+Uri: https://www.wasltak.com.sa/assets/formstyler/jquery.formstyler.theme.css
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\assets\formstyler\jquery.formstyler.theme.css
+Content Type: text/css
+
+Uri: https://www.wasltak.com.sa/assets/icon54/fonts/icon54.eot?uf6sbu
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\assets\icon54\fonts\icon54.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.wasltak.com.sa/assets/icon54/fonts/icon54.svg?uf6sbu
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\assets\icon54\fonts\icon54.svg
+Content Type: image/svg+xml
+
+Uri: https://www.wasltak.com.sa/assets/icon54/fonts/icon54.ttf?uf6sbu
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\assets\icon54\fonts\icon54.ttf
+Content Type: font/ttf
+
+Uri: https://www.wasltak.com.sa/assets/icon54/fonts/icon54.woff?uf6sbu
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\assets\icon54\fonts\icon54.woff
+Content Type: font/woff
+
+Uri: https://www.wasltak.com.sa/assets/icon54/style.css
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\assets\icon54\style.css
+Content Type: text/css
+
+Uri: https://www.wasltak.com.sa/assets/images/1-2.svg
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\assets\images\1-2.svg
+Content Type: image/svg+xml
+
+Uri: https://www.wasltak.com.sa/assets/images/1-279x279.png
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\assets\images\1-279x279.png
+Content Type: image/png
+
+Uri: https://www.wasltak.com.sa/assets/images/2-2.svg
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\assets\images\2-2.svg
+Content Type: image/svg+xml
+
+Uri: https://www.wasltak.com.sa/assets/images/2-279x279.png
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\assets\images\2-279x279.png
+Content Type: image/png
+
+Uri: https://www.wasltak.com.sa/assets/images/3-2.svg
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\assets\images\3-2.svg
+Content Type: image/svg+xml
+
+Uri: https://www.wasltak.com.sa/assets/images/3-279x279.png
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\assets\images\3-279x279.png
+Content Type: image/png
+
+Uri: https://www.wasltak.com.sa/assets/images/4-2.svg
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\assets\images\4-2.svg
+Content Type: image/svg+xml
+
+Uri: https://www.wasltak.com.sa/assets/images/4-279x279.png
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\assets\images\4-279x279.png
+Content Type: image/png
+
+Uri: https://www.wasltak.com.sa/assets/images/5-279x279.png
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\assets\images\5-279x279.png
+Content Type: image/png
+
+Uri: https://www.wasltak.com.sa/assets/images/background7.svg
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\assets\images\background7.svg
+Content Type: image/svg+xml
+
+Uri: https://www.wasltak.com.sa/assets/images/bg-512x384.png
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\assets\images\bg-512x384.png
+Content Type: image/png
+
+Uri: https://www.wasltak.com.sa/assets/images/riyadh1-804x535.png
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\assets\images\riyadh1-804x535.png
+Content Type: image/png
+
+Uri: https://www.wasltak.com.sa/assets/images/untitled-1-128x128.png
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\assets\images\untitled-1-128x128.png
+Content Type: image/png
+
+Uri: https://www.wasltak.com.sa/assets/images/untitled-1.svg
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\assets\images\untitled-1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.wasltak.com.sa/assets/images/vision-1-1.svg
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\assets\images\vision-1-1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.wasltak.com.sa/assets/images/vision-1.svg
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\assets\images\vision-1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.wasltak.com.sa/assets/mbr-switch-arrow/mbr-switch-arrow.js
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\assets\mbr-switch-arrow\mbr-switch-arrow.js
+Content Type: application/javascript
+
+Uri: https://www.wasltak.com.sa/assets/mobirise/css/mbr-additional.css
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\assets\mobirise\css\mbr-additional.css
+Content Type: text/css
+
+Uri: https://www.wasltak.com.sa/assets/popper/popper.min.js
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\assets\popper\popper.min.js
+Content Type: application/javascript
+
+Uri: https://www.wasltak.com.sa/assets/smoothscroll/smooth-scroll.js
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\assets\smoothscroll\smooth-scroll.js
+Content Type: application/javascript
+
+Uri: https://www.wasltak.com.sa/assets/socicon/css/styles.css
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\assets\socicon\css\styles.css
+Content Type: text/css
+
+Uri: https://www.wasltak.com.sa/assets/socicon/fonts/socicon.eot
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\assets\socicon\fonts\socicon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.wasltak.com.sa/assets/socicon/fonts/socicon.eot?
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\assets\socicon\fonts\socicon-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.wasltak.com.sa/assets/socicon/fonts/socicon.svg
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\assets\socicon\fonts\socicon.svg
+Content Type: image/svg+xml
+
+Uri: https://www.wasltak.com.sa/assets/socicon/fonts/socicon.ttf
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\assets\socicon\fonts\socicon.ttf
+Content Type: font/ttf
+
+Uri: https://www.wasltak.com.sa/assets/socicon/fonts/socicon.woff
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\assets\socicon\fonts\socicon.woff
+Content Type: font/woff
+
+Uri: https://www.wasltak.com.sa/assets/socicon/fonts/socicon.woff2
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\assets\socicon\fonts\socicon.woff2
+Content Type: font/woff2
+
+Uri: https://www.wasltak.com.sa/assets/tether/tether.min.css
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\assets\tether\tether.min.css
+Content Type: text/css
+
+Uri: https://www.wasltak.com.sa/assets/tether/tether.min.js
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\assets\tether\tether.min.js
+Content Type: application/javascript
+
+Uri: https://www.wasltak.com.sa/assets/theme/js/script.js
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\assets\theme\js\script.js
+Content Type: application/javascript
+
+Uri: https://www.wasltak.com.sa/assets/touchswipe/jquery.touch-swipe.min.js
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\assets\touchswipe\jquery.touch-swipe.min.js
+Content Type: application/javascript
+
+Uri: https://www.wasltak.com.sa/assets/viewportchecker/jquery.viewportchecker.js
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\assets\viewportchecker\jquery.viewportchecker.js
+Content Type: application/javascript
+
+Uri: https://www.wasltak.com.sa/assets/web/assets/jquery/jquery.min.js
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\assets\web\assets\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://www.wasltak.com.sa/assets/web/assets/mobirise-icons/mobirise-icons.css
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\assets\web\assets\mobirise-icons\mobirise-icons.css
+Content Type: text/css
+
+Uri: https://www.wasltak.com.sa/assets/web/assets/mobirise-icons/mobirise-icons.eot?spat4u
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\assets\web\assets\mobirise-icons\mobirise-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.wasltak.com.sa/assets/web/assets/mobirise-icons/mobirise-icons.svg?spat4u
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\assets\web\assets\mobirise-icons\mobirise-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://www.wasltak.com.sa/assets/web/assets/mobirise-icons/mobirise-icons.ttf?spat4u
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\assets\web\assets\mobirise-icons\mobirise-icons.ttf
+Content Type: font/ttf
+
+Uri: https://www.wasltak.com.sa/assets/web/assets/mobirise-icons/mobirise-icons.woff?spat4u
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\assets\web\assets\mobirise-icons\mobirise-icons.woff
+Content Type: font/woff
+
+Uri: https://www.wasltak.com.sa/assets/web/assets/mobirise-icons2/mobirise2.css
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\assets\web\assets\mobirise-icons2\mobirise2.css
+Content Type: text/css
+
+Uri: https://www.wasltak.com.sa/assets/web/assets/mobirise-icons2/mobirise2.eot?f2bix4
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\assets\web\assets\mobirise-icons2\mobirise2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.wasltak.com.sa/assets/web/assets/mobirise-icons2/mobirise2.svg?f2bix4
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\assets\web\assets\mobirise-icons2\mobirise2.svg
+Content Type: image/svg+xml
+
+Uri: https://www.wasltak.com.sa/assets/web/assets/mobirise-icons2/mobirise2.ttf?f2bix4
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\assets\web\assets\mobirise-icons2\mobirise2.ttf
+Content Type: font/ttf
+
+Uri: https://www.wasltak.com.sa/assets/web/assets/mobirise-icons2/mobirise2.woff?f2bix4
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\assets\web\assets\mobirise-icons2\mobirise2.woff
+Content Type: font/woff
+
+Uri: https://www.wasltak.com.sa/cdn-cgi/images/browser-bar.png?1376755637
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: https://www.wasltak.com.sa/cdn-cgi/images/cf-icon-browser.png
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\cdn-cgi\images\cf-icon-browser.png
+Content Type: image/png
+
+Uri: https://www.wasltak.com.sa/cdn-cgi/images/cf-icon-cloud.png
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\cdn-cgi\images\cf-icon-cloud.png
+Content Type: image/png
+
+Uri: https://www.wasltak.com.sa/cdn-cgi/images/cf-icon-error.png
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\cdn-cgi\images\cf-icon-error.png
+Content Type: image/png
+
+Uri: https://www.wasltak.com.sa/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\cdn-cgi\images\cf-icon-horizontal-arrow.png
+Content Type: image/png
+
+Uri: https://www.wasltak.com.sa/cdn-cgi/images/cf-icon-ok.png
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\cdn-cgi\images\cf-icon-ok.png
+Content Type: image/png
+
+Uri: https://www.wasltak.com.sa/cdn-cgi/images/cf-icon-server.png
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\cdn-cgi\images\cf-icon-server.png
+Content Type: image/png
+
+Uri: https://www.wasltak.com.sa/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\cdn-cgi\images\cf-no-screenshot-error.png
+Content Type: image/png
+
+Uri: https://www.wasltak.com.sa/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\cdn-cgi\images\cf-no-screenshot-warn.png
+Content Type: image/png
+
+Uri: https://www.wasltak.com.sa/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://www.wasltak.com.sa/cdn-cgi/l/email-protection
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://www.wasltak.com.sa/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://www.wasltak.com.sa/cdn-cgi/styles/cf.errors.css
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://www.wasltak.com.sa/tracking
+File Name: C:\Downloaded Web Sites\www.wasltak.com.sa\tracking.html
+Content Type: text/html
+
