@@ -1210,13 +1210,19 @@
         window.location.hostname === "127.0.0.1" ? "" : "/logistic";
 
       languageToggle.addEventListener("change", function () {
+        let redirectUrl;
         if (this.checked) {
-          // Redirect to Arabic page
-          window.location.href = `${currentDomain}${subdirectory}/en.html`;
+          // Set redirect URL to Arabic page
+          redirectUrl = `${currentDomain}${subdirectory}/en.html`;
         } else {
-          // Redirect to English page
-          window.location.href = `${currentDomain}${subdirectory}`;
+          // Set redirect URL to English page
+          redirectUrl = `${currentDomain}${subdirectory}`;
         }
+
+        // Wait for 1 second before redirecting
+        setTimeout(function () {
+          window.location.href = redirectUrl;
+        }, 200); // 1000 milliseconds = 1 second
       });
     </script>
   </body>
